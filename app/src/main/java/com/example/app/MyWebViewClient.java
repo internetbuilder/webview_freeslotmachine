@@ -1,4 +1,4 @@
-package com.freeslotmachine.app;
+package com.example.app;
 
 import android.content.Intent;
 import android.net.Uri;
